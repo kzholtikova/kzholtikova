@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt="github-snake" src="[https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg?raw=true](https://raw.githubusercontent.com/kzholtikova/kzholtikova/54ec849410391c1e613540b0acf056fe1b378bcf/github-contribution-grid-snake.svg)" />
 </picture>
 <!--
 **kzholtikova/kzholtikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
