@@ -1,4 +1,4 @@
-![Header](./[src/github-header-img.png])
+![Header](https://github.com/kzholtikova/kzholtikova/blob/main/src/github-header-img.png)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
