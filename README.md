@@ -1,5 +1,10 @@
-### Hi there 👋
+![Header](./[https://github.com/kzholtikova/kzholtikova/blob/main/src/github-header-img.png])
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+</picture>
 <!--
 **kzholtikova/kzholtikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
