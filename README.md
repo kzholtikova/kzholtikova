@@ -1,7 +1,7 @@
 ![Header](https://github.com/kzholtikova/kzholtikova/blob/main/src/github-header-img.png)
 
 ![Contribution](https://raw.githubusercontent.com/kzholtikova/kzholtikova/54ec849410391c1e613540b0acf056fe1b378bcf/github-contribution-grid-snake.svg)
-<img src='https://68ab0ad7-43e4-468c-aeb1-24dc81ec3362-00-2q44z8r931ris.janeway.replit.dev/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src='https://random-memer-production-792a.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **kzholtikova/kzholtikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
