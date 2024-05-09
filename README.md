@@ -1,6 +1,7 @@
 ![Header](https://github.com/kzholtikova/kzholtikova/blob/main/src/github-header-img.png)
 
 ![Contribution](https://raw.githubusercontent.com/kzholtikova/kzholtikova/54ec849410391c1e613540b0acf056fe1b378bcf/github-contribution-grid-snake.svg)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31j23tthlqfsqyhawqrip26vzrte&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31j23tthlqfsqyhawqrip26vzrte&redirect=true)
 <img src='https://random-memer-production-792a.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **kzholtikova/kzholtikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
