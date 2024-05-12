@@ -9,22 +9,25 @@
 - 👯 I’m looking to collaborate on ....
 
 ## My projects
-- ### ![Leetcode](https://github.com/kzholtikova/leetcode-solutions/)
-- ### Kyiv School of Economics:
-  - #### C#:
-    - ![Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)
-    - ![Dictionary Implementation](https://github.com/kzholtikova/dictionary-ivelmakina-kzholtikova)
-    - ![]()
-    - ![]()
-    - ![]()
-  - #### ![Football League System](https://github.com/kzholtikova/football-league-database) Database (MySQL)
-  - #### Python
-    - ![Arcanoid](https://github.com/kzholtikova/arcanoid)
-    - ![Tic-Tac-Toe](https://github.com/kzholtikova/tic-tac-toe-kzholtikova-ivelmakina)
-    - ![]()
-    - ![]()
+### - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
+### - Kyiv School of Economics:
+  #### - C#:
+    - [Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)
+    - [Dictionary Implementation](https://github.com/kzholtikova/dictionary-ivelmakina-kzholtikova)
+    - 
+    - 
+    - 
+  #### - [Football League System Database](https://github.com/kzholtikova/football-league-database) (MySQL)
+  #### - Python
+    - [Arcanoid](https://github.com/kzholtikova/arcanoid)
+    - [Tic-Tac-Toe](https://github.com/kzholtikova/tic-tac-toe-kzholtikova-ivelmakina)
+    - 
+    - 
 
-<h3>If you have any questions or collaboration ideas, feel free to reach out!    <a href="mailto:kzholtikova@kse.org.ua"><img src="https://e1.pngegg.com/pngimages/500/986/png-clipart-logo-google-e-mail-gmail-g-suite-logiciel-informatique-compte-google-adresse-de-rebond-google-drive.png" alt="Gmail" width="30"></a>    <a href="https://www.linkedin.com/in/kzholtikova/"><img src="https://th.bing.com/th/id/R.6e154f80072e0f134105ec35599d74a6?rik=FuCTxBaCafJosQ&riu=http%3a%2f%2fwww.vhv.rs%2ffile%2fmax%2f9%2f98181_linkedin-transparent-png.png&ehk=AxP4h6bKnUWcGTor4PVhnQB%2bpJFGmEiu6wwfCXRXJYI%3d&risl=&pid=ImgRaw&r=0" alt="LinkedIn" width="50"></a></h3>
+      
+---
+<h3>If you have any questions or collaboration ideas, feel free to reach out!    <a href="mailto:kzholtikova@kse.org.ua"><img src="https://e1.pngegg.com/pngimages/500/986/png-clipart-logo-google-e-mail-gmail-g-suite-logiciel-informatique-compte-google-adresse-de-rebond-google-drive.png" alt="Gmail" width="40"></a>    <a href="https://www.linkedin.com/in/kzholtikova/"><img src="https://www.bing.com/images/search?q=linkeding%20icon&FORM=IQFRBA&id=DB6BBE8933B84C5B7A6C425948F95AA200B3A908" alt="LinkedIn" width="40"></a></h3>
+---
 
 <img src='https://random-memer-production-792a.up.railway.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up."> <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31j23tthlqfsqyhawqrip26vzrte&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" alt="spotify-github-profile">
