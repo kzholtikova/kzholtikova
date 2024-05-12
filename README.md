@@ -5,15 +5,36 @@
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
 ## My projects
-| ## [Leetcode](https://github.com/kzholtikova/leetcode-solutions) | ## Kyiv School of Economics: |
-| | ### C#: |
-| | - [Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova) |
-| | - [Dictionary Implementation](https://github.com/kzholtikova/dictionary-ivelmakina-kzholtikova) |
-| | ### [Football League System Database](https://github.com/kzholtikova/football-league-database) (MySQL) |
-| | ### Python |
-| | - [Arcanoid](https://github.com/kzholtikova/arcanoid) |
-| | - [Tic-Tac-Toe](https://github.com/kzholtikova/tic-tac-toe-kzholtikova-ivelmakina) |
-
+<div style="width: 48%; float: left;">
+    <h3><a href="https://github.com/kzholtikova/leetcode-solutions">Leetcode</a></h3>
+</div>
+<div style="width: 48%; float: right;">
+    <h3>Kyiv School of Economics:</h3>
+    <ul>
+        <li>
+            <h4>C#:</h4>
+            <ul>
+                <li><a href="https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova">Huffman Coding</a></li>
+                <li><a href="https://github.com/kzholtikova/dictionary-ivelmakina-kzholtikova">Dictionary Implementation</a></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </li>
+        <li>
+            <h4><a href="https://github.com/kzholtikova/football-league-database">Football League System</a> Database (MySQL)</h4>
+        </li>
+        <li>
+            <h4>Python</h4>
+            <ul>
+                <li><a href="https://github.com/kzholtikova/arcanoid">Arcanoid</a></li>
+                <li><a href="https://github.com/kzholtikova/tic-tac-toe-kzholtikova-ivelmakina">Tic-Tac-Toe</a></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </li>
+    </ul>
+</div>
 
 <div style="display: flex; justify-content: space-between;">
     <div style="width: 48%;">
