@@ -9,7 +9,9 @@
 
 <!-- - 👯 I’m looking to collaborate on ...  -->
 ## My projects
-- ### [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
+- ### Personal:
+  - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
+  - [Python Banderogus Game](https://github.com/kzholtikova/banderogus-game) 
 - ### Kyiv School of Economics:
   - #### C#:
     - [Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)
