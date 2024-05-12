@@ -1,10 +1,9 @@
 ![Header](https://github.com/kzholtikova/kzholtikova/blob/main/src/github-header-img.png)
-<h2>I am</h2>
-<!-- Briefly introduce yourself here. Mention your areas of expertise, interests, and what drives you in your programming journey. -->
+<h2>I am <p>a dedicated Software Engineering student at Kyiv School of Economics, proficient in C#, MySQL, Python, and Git. With a GPA of 99.34, I earned a scholarship from the European University Viadrina Frankfurt and am currently enrolled in their "Project Management" course. Leading the Student-Business Interview team and soon to be a tutor at KSE Deep Learning School, I'm eager to contribute to impactful projects in the field of Software Engineering.</p></h2>
 
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
-- 🤫 I’m currently working on Telegram Chatbot.
+- 🤫 I’m currently working on a Telegram Chatbot.
 - 🌱 I’m currently learning Programming Paradigms (C/C++), Machine Learning (Pandas & Numpy).<br><br>
 
 <!-- - 👯 I’m looking to collaborate on ...  -->
