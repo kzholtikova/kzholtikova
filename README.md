@@ -3,8 +3,9 @@
 
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
-- 🤫 I’m currently working on a Telegram Chatbot.
-- 🌱 I’m currently learning Programming Paradigms (C/C++), Machine Learning (Pandas & Numpy).<br><br>
+**Currently:**
+  - 🤫 I’m working on a Telegram Chatbot.
+  - 🌱 I’m learning Programming Paradigms (C/C++), Machine Learning (Pandas & Numpy).<br><br>
 
 <!-- - 👯 I’m looking to collaborate on ...  -->
 ## My projects
