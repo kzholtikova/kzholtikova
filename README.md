@@ -1,12 +1,13 @@
 ![Header](https://github.com/kzholtikova/kzholtikova/blob/main/src/github-header-img.png)
 <h2>I am</h2>
 <!-- Briefly introduce yourself here. Mention your areas of expertise, interests, and what drives you in your programming journey. -->
+
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
 - 🤫 I’m currently working on Telegram Chatbot.
 - 🌱 I’m currently learning Programming Paradigms (C/C++), Machine Learning (Pandas & Numpy), and practicing with C# on Leetcode.
 - 👯 I’m looking to collaborate on ....
-<br>
+
 
 ## My projects
 - ### [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
