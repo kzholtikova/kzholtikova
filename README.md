@@ -7,8 +7,7 @@
 - 🤫 I’m currently working on Telegram Chatbot.
 - 🌱 I’m currently learning Programming Paradigms (C/C++), Machine Learning (Pandas & Numpy), and practicing with C# on Leetcode.
 - 👯 I’m looking to collaborate on ....
-
-
+<br>
 ## My projects
 - ### [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
 - ### Kyiv School of Economics:
