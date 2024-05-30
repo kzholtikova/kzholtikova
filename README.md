@@ -13,11 +13,14 @@
   - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
   - [Python Banderogus Game](https://github.com/kzholtikova/banderogus-game) 
 - ### Kyiv School of Economics:
+  - #### C/C++:
+    - [Simple Text Editor](https://github.com/kzholtikova/simple-text-editor) 
   - #### C#:
     - [Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)
     - [Dictionary Implementation](https://github.com/kzholtikova/dictionary-ivelmakina-kzholtikova)
   - #### [Football League System Database](https://github.com/kzholtikova/football-league-database) (MySQL)
   - #### Python
+    - [Linear Transformations](https://github.com/kzholtikova/linear-transformations) 
     - [Arcanoid](https://github.com/kzholtikova/arcanoid)
     - [Tic-Tac-Toe](https://github.com/kzholtikova/tic-tac-toe-kzholtikova-ivelmakina)
 <br><br>
