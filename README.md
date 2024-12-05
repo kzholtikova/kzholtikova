@@ -9,7 +9,7 @@
   - #### C#:
     - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
     - [Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)
-  - #### [Football League System Database](https://github.com/kzholtikova/football-league-database) (MySQL)
+    - [Football League System Database](https://github.com/kzholtikova/football-league-database) (MySQL)
   - #### Python
     - [Linear Transformations](https://github.com/kzholtikova/linear-transformations) 
     - [Arcanoid](https://github.com/kzholtikova/arcanoid)
