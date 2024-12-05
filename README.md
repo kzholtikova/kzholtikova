@@ -1,23 +1,14 @@
 ![Header](https://github.com/kzholtikova/kzholtikova/blob/main/src/github-header-img.png)
-<h2 style="display:inline;">I am</h2> a dedicated Software Engineering student at Kyiv School of Economics, proficient in C#, MySQL, Python, and Git. With a GPA of 99.34, I earned a scholarship from the European University Viadrina Frankfurt and am currently enrolled in their "Project Management" course. Leading the Student-Business Interview team and soon to be a tutor at KSE Deep Learning School, I'm eager to contribute to impactful projects in the field of Software Engineering.
 
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
-**Currently:**
-  - 🤫 I’m working on a Telegram Chatbot.
-  - 🌱 I’m learning Programming Paradigms (C/C++), Machine Learning (Pandas & Numpy).<br><br>
-
 <!-- - 👯 I’m looking to collaborate on ...  -->
 ## My projects
-- ### Personal:
-  - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
-  - [Python Banderogus Game](https://github.com/kzholtikova/banderogus-game) 
-- ### Kyiv School of Economics:
   - #### C/C++:
     - [Simple Text Editor](https://github.com/kzholtikova/simple-text-editor) 
   - #### C#:
+    - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
     - [Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)
-    - [Dictionary Implementation](https://github.com/kzholtikova/dictionary-ivelmakina-kzholtikova)
   - #### [Football League System Database](https://github.com/kzholtikova/football-league-database) (MySQL)
   - #### Python
     - [Linear Transformations](https://github.com/kzholtikova/linear-transformations) 
