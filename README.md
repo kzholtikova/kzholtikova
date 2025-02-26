@@ -3,8 +3,7 @@
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
 ## Who am I?
-🧩 I’m looking to collaborate on Apple Platform Development (designers/ developers).<br>🌱 I’m currently advancing in Swift.<br>🍵 Fun fact: I was coding for 12 hours nonstop to build the BookTok app.
-
+🧩 I’m looking to collaborate on Apple Platform Development (designers/ developers).<br>🌱 I’m currently advancing in Swift.<br>🍵 Fun fact: I was coding for 12 hours nonstop to build the BookTok app. ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ## What do I do?
 - #### Swift:
   - [![Booktok](https://img.shields.io/badge/Booktok-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/monyshchenko01/Book-Tok)
@@ -33,7 +32,5 @@
 
 ## Want to know more?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kzholtikova) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzholtikova@kse.org.ua) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/keyxzet)  
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
