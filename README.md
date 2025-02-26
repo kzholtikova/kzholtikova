@@ -2,9 +2,12 @@
 
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
-<!-- - 👯 I’m looking to collaborate on ...  -->
-## My projects
+## Who am I?
+👯 I’m looking to collaborate on Apple Platform Development (designers/ developers).<br>🌱 I’m currently advancing in Swift.<br>⚡ Fun fact: I was coding for 12 hours nonstop to build the BookTok app.
+
+## What do I do?
   - #### C/C++:
+    - [MineSweeeper](https://github.com/kzholtikova/minesweeper) 
     - [Simple Text Editor](https://github.com/kzholtikova/simple-text-editor) 
   - #### C#:
     - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
@@ -16,6 +19,19 @@
     - [Tic-Tac-Toe](https://github.com/kzholtikova/tic-tac-toe-kzholtikova-ivelmakina)
 <br><br>
 
-<h2>If you have any collaboration ideas, feel free to reach out!&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kzholtikova/"><img src="https://th.bing.com/th/id/OIP.ozDiSGJlUqI6815cRlJiNAHaHa?w=194&h=195&c=7&r=0&o=5&dpr=2&pid=1.7" alt="LinkedIn" width="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kzholtikova@kse.org.ua"><img src="https://e1.pngegg.com/pngimages/500/986/png-clipart-logo-google-e-mail-gmail-g-suite-logiciel-informatique-compte-google-adresse-de-rebond-google-drive.png" alt="Gmail" width="30"></a></h2>
+## How do I make it?
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Crowdin](https://img.shields.io/badge/Crowdin-2E3340.svg?style=for-the-badge&logo=Crowdin&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31j23tthlqfsqyhawqrip26vzrte&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false" height="400" alt="spotify-github-profile"></a>&nbsp;&nbsp;&nbsp;<img src='https://random-memer-production-792a.up.railway.app/' height="400" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+## How am I going?
+![](https://github-readme-stats.vercel.app/api?username=kzholtikova&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kzholtikova&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kzholtikova&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-profile-trophy.vercel.app/?username=kzholtikova&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+## Want to know more?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kzholtikova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kzholtikova@kse.org.ua) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keyxzet)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
