@@ -3,20 +3,22 @@
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
 ## Who am I?
-👯 I’m looking to collaborate on Apple Platform Development (designers/ developers).<br>🌱 I’m currently advancing in Swift.<br>⚡ Fun fact: I was coding for 12 hours nonstop to build the BookTok app.
+🧩 I’m looking to collaborate on Apple Platform Development (designers/ developers).<br>🌱 I’m currently advancing in Swift.<br>🍵 Fun fact: I was coding for 12 hours nonstop to build the BookTok app.
 
 ## What do I do?
-  - #### C/C++:
-    - [MineSweeeper](https://github.com/kzholtikova/minesweeper) 
-    - [Simple Text Editor](https://github.com/kzholtikova/simple-text-editor) 
-  - #### C#:
-    - [Leetcode](https://github.com/kzholtikova/leetcode-solutions)
-    - [Huffman Coding](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)
-    - [Football League System Database](https://github.com/kzholtikova/football-league-database) (MySQL)
-  - #### Python
-    - [Linear Transformations](https://github.com/kzholtikova/linear-transformations) 
-    - [Arcanoid](https://github.com/kzholtikova/arcanoid)
-    - [Tic-Tac-Toe](https://github.com/kzholtikova/tic-tac-toe-kzholtikova-ivelmakina)
+- #### Swift:
+  - [![Booktok](https://img.shields.io/badge/Booktok-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/monyshchenko01/Book-Tok)
+- #### C/C++:
+  - [![MineSweeeper](https://img.shields.io/badge/MineSweeeper-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/minesweeper)  
+  - [![Simple Text Editor](https://img.shields.io/badge/Simple_Text_Editor-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/simple-text-editor)
+- #### C#:
+  - [![Leetcode](https://img.shields.io/badge/Leetcode-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/leetcode-solutions)  
+  - [![Huffman Coding](https://img.shields.io/badge/Huffman_Coding-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/huffman-coding-ivelmakina-kzholtikova)  
+  - [![Football League System Database (MySQL)](https://img.shields.io/badge/Football_League_System_Database-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/football-league-database) 
+- #### Python:
+  - [![Linear Transformations](https://img.shields.io/badge/Linear_Transformations-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/linear-transformations)  
+  - [![Arcanoid](https://img.shields.io/badge/Arcanoid-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/arcanoid)  
+  - [![Tic-Tac-Toe](https://img.shields.io/badge/Tic_Tac_Toe-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/kzholtikova/tic-tac-toe-kzholtikova)
 <br><br>
 
 ## How do I make it?
@@ -30,7 +32,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=kzholtikova&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ## Want to know more?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kzholtikova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kzholtikova@kse.org.ua) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/keyxzet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kzholtikova) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kzholtikova@kse.org.ua) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/keyxzet)  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
