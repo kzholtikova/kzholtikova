@@ -3,7 +3,11 @@
 ![Contribution](https://github.com/kzholtikova/kzholtikova/blob/output/github-contribution-grid-snake.svg)
 
 ## Who am I?
-🧩 I’m looking to collaborate on Apple Platform Development (designers/ developers).<br>🌱 I’m currently advancing in Swift.<br>🍵 Fun fact: I was coding for 12 hours nonstop to build the BookTok app. ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+- **Class:** Product Engineer (Full-Stack)
+- **Current Quest:** Billing Systems.
+- **Special Abilities:** Make AI agents argue over my problem, and turn CI&CD into a formula racecar.  
+- **Fun fact:** I was coding for 12 hours nonstop to build the BookTok app. ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
 ## What do I do?
 - #### Swift:
   - [![Booktok](https://img.shields.io/badge/Booktok-%23989736?style=for-the-badge&labelColor=transparent)](https://github.com/monyshchenko01/Book-Tok)
